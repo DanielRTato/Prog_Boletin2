@@ -44,7 +44,7 @@ public class Main {
         num1 = eligeNumero.nextDouble();
         num2 = eligeNumero.nextDouble();
         System.out.println("Introduce el segundo numero");
-        resultadoS = num1 + num2;
+        resultadoS = num1 + num2;d
 */
 
 
